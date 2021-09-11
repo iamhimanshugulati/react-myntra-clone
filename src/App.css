@@ -1,0 +1,8 @@
+.form-control:focus{
+box-shadow: none;
+background-color: white;
+}
+
+.searchBar {
+  width: 400px;
+}
