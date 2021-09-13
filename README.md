@@ -1,3 +1,11 @@
+# Myntra Clone, with JSON and ReactJS!
+
+The following repository deals with the JSON file of **Myntra** and from that file I fetched data accordingly and applied some filters.
+Here I used **Bootstrap** and **ReactJS** to perform this task.
+
+[Click Here](https://jolly-mcclintock-ab4642.netlify.app/) to view this repository on netlify.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
